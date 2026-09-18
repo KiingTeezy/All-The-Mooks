@@ -1,3 +1,5 @@
+<p align="center"><img src="branding/logo.png" width="320" alt="All The Better Mooks"></p>
+
 # All The Better Mooks
 
 Modpack for the **All The Mooks** server - `mooksvill.datho.st`
