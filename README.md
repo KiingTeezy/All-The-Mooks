@@ -62,8 +62,8 @@ Updating: each version is a **new import** (step 2 again). Your old instance can
 ## Known issues
 
 - **Do not install PureBDcraft.** Its current version is broken on this Minecraft version (flat untextured blocks, broken armor trims).
-- A few ATM11 recipes that use Biomes O' Plenty items are missing (some Agritech planter and Farming for Blockheads market entries) - BoP renamed those items.
-- Starcatcher's **Bottled Letter** can't be crafted, and one Better Archaeology temple room variant generates empty - bugs in those mods.
+- Rainbow Birch is gone from Biomes O' Plenty, so it is not in the Farming for Blockheads market or Agritech planters.
+- One Better Archaeology temple room variant generates empty - a bug in that mod.
 - ATM11 is a **beta**: expect the odd rough edge. Some ATM11 quest loot-box rewards appear to have no loot table set in ATM's own files.
 
 ## Something wrong?

@@ -7,6 +7,7 @@
 - **New quests:** an Exploration group - Biomes O' Plenty (29 biomes), Structures (27), Creatures (20 to spot, 6 to defeat), plus the Archaeology and Fishing chapters from Better MC 6. 107 quests, rewarded from the pack's own loot tiers.
 - **New mods:** Better Archaeology 1.3.8, Starcatcher 3.1.4.1.
 - **Our own identity:** All The Better Mooks emblem on the title screen, window title, loading screen and quest book title; Discord status shows "Playing All The Better Mooks" with our logo; the title-screen and crash-screen help point to our Discord and bug-report form (the Reddit and server-host buttons are gone).
+- **Fixes (same-day refresh):** Starcatcher's Bottled Letter is craftable, Biomes O' Plenty saplings and flowers are back in the Farming for Blockheads market and Agritech planters, the KubeJS warning screen is quiet, and the quest book's Welcome logo is ours.
 - **Renamed (display names only - IDs, recipes and quests unchanged):** ATM Star -> Mook Star (plus Shard, Block and Fragments), Allthemodium -> Mookium (118 names across 8 mods, plus the quest text), All The Mods Trophy -> Better Mooks Trophy.
 
 ## 3.0.0 - All The Better Mooks - 2026-09-17
