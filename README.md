@@ -1,8 +1,8 @@
-# All-The-Mooks
+# All The Better Mooks
 
-Modpack distribution for **All The Mooks** - `mooksvill.datho.st`
+Modpack for the **All The Mooks** server - `mooksvill.datho.st`
 
-**Current: v3.0.0 - ATM11 0.8.0-beta + BMC6 exploration layer** - Minecraft 26.1.2 - NeoForge 26.1.2.109
+**Current: All The Better Mooks v3.0.0** - ATM11 0.8.0-beta + BMC6 exploration layer - Minecraft 26.1.2 - NeoForge 26.1.2.109
 
 ## Install
 
@@ -18,7 +18,7 @@ Each major version is a fresh import - older instances cannot be updated across 
 
 | Version | Pack | Minecraft |
 |---|---|---|
-| [v3.0.0](../../releases/tag/v3.0.0) | ATM11 0.8.0-beta + BMC6 exploration layer (301 mods) | 26.1.2 |
+| [v3.0.0](../../releases/tag/v3.0.0) | All The Better Mooks - ATM11 0.8.0-beta + BMC6 exploration layer (301 mods) | 26.1.2 |
 | [v2.0.0](../../releases/tag/v2.0.0) | ATM11 0.8.0-beta | 26.1.2 |
 | [v1.0.0](../../releases/tag/v1.0.0) | ATM10 6.6 | 1.21.1 |
 
