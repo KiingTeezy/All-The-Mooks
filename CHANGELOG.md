@@ -1,5 +1,13 @@
 # Changelog
 
+## 3.2.0 - Automatic updates - 2026-09-18
+
+301 mods. Needs the server on 3.2.0. **Last re-import:** install from `All-The-Better-Mooks.zip` and the pack updates itself on every launch (packwiz).
+
+- **Auto-update:** the new instance runs packwiz-installer before each launch and pulls the latest pack from GitHub. It comes with 10 GB of RAM and the server already in the Multiplayer list.
+- **Map:** JourneyMap 6.0.8 replaces Xaero's Minimap, Xaero's World Map and XaeroPlus.
+- Includes the 3.1.0 fixes (quest book logo, Bottled Letter, Biomes O' Plenty market/planter entries, quiet KubeJS warnings).
+
 ## 3.1.0 - The Exploration update - 2026-09-18
 
 303 mods. Needs the server on 3.1.0.

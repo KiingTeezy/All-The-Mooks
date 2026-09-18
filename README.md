@@ -6,7 +6,7 @@
   <b>All the Mods 11</b> + the exploration layer from <b>Better MC 6</b>, built for our server.<br>
   <img src="https://img.shields.io/badge/Minecraft-26.1.2-62B47A" alt="Minecraft 26.1.2">
   <img src="https://img.shields.io/badge/NeoForge-26.1.2.109-D7742F" alt="NeoForge 26.1.2.109">
-  <img src="https://img.shields.io/badge/mods-303-5865F2" alt="303 mods">
+  <img src="https://img.shields.io/badge/mods-301-5865F2" alt="301 mods">
   <img src="https://img.shields.io/github/v/release/KiingTeezy/All-The-Mooks?label=pack" alt="latest pack version">
 </p>
 
@@ -14,19 +14,19 @@
 
 ---
 
-## Install (5 minutes)
+## Install (one time - it updates itself after that)
 
 1. Install **[Prism Launcher](https://prismlauncher.org)** and sign in with your Microsoft account.
-2. In Prism: **Add Instance** -> **Import** -> paste the pack link from the
-   **[latest release](https://github.com/KiingTeezy/All-The-Mooks/releases/latest)** -> **OK**.
-   Prism downloads the pack and all 303 mods by itself.
-3. **Set your RAM before the first launch** (this is the step people skip):
-   right-click the instance -> **Edit** -> **Settings** -> tick **Memory** -> **Maximum memory: 10240 MB**.
-   On Prism's 4 GB default the pack stutters or crashes.
-4. Launch. The first start takes a few minutes - that is normal.
-5. **Multiplayer** -> **Add Server** -> `mooksvill.datho.st`.
+2. In Prism: **Add Instance** -> **Import** -> paste this link -> **OK**:
+   ```
+   https://github.com/KiingTeezy/All-The-Mooks/releases/latest/download/All-The-Better-Mooks.zip
+   ```
+3. Press **Launch**. The first launch downloads the whole pack (a few minutes), then the game starts.
 
-Updating: each version is a **new import** (step 2 again). Your old instance can stay; it just will not connect.
+RAM is already set to 10 GB and `mooksvill.datho.st` is already in your Multiplayer list.
+
+**Updates are automatic:** every time you press Launch, a small window checks for a new version and installs it
+before the game starts. You never re-import again.
 
 ---
 
@@ -41,7 +41,7 @@ Updating: each version is a **new import** (step 2 again). Your old instance can
 | **New biomes** | Biomes O' Plenty - 68 biomes across the Overworld, Nether and End. Geophilic touches up vanilla biomes. |
 | **New structures** | 7 Moog's structure mods (Voyager, Bountiful, Soaring, Missing Villages, Temples Reimagined, Nether, End), AdoraBuild, Formations |
 | **New creatures** | Alex's Mobs (100+ animals and monsters), Friends & Foes (Glare, Moobloom, Rascal, Tuff Golem, Wildfire and more) |
-| **Map** | Xaero's Minimap + World Map + XaeroPlus. Press **M** for the full map. |
+| **Map** | JourneyMap - minimap plus a full-screen map (press **J**). |
 
 **Our server favourites:** FallingTree, Guard Villagers, Better Combat, Better Days (long days, short nights), Giant Natural Additions, Simple Voice Chat, Chunky, and the Lios villages, dungeons and hobbit hills.
 
@@ -51,7 +51,12 @@ Updating: each version is a **new import** (step 2 again). Your old instance can
 
 ---
 
-## New in 3.1.0 - the Exploration update
+## New in 3.2.0
+
+- **Automatic updates** - import once, the pack keeps itself up to date.
+- **JourneyMap** replaces Xaero's maps.
+
+## 3.1.0 - the Exploration update
 
 - **An Exploration quest line** in the quest book: visit Biomes O' Plenty biomes, find the new structures, track down Alex's Mobs and Friends & Foes creatures - with rewards from ATM's own loot tiers.
 - **Better Archaeology** and **Starcatcher** (fishing), with their quest chapters from Better MC 6.
@@ -70,8 +75,8 @@ Updating: each version is a **new import** (step 2 again). Your old instance can
 
 | Problem | Fix |
 |---|---|
-| "You are not running the same version of the modpack as the server" | Import the latest release (see Install, step 2). |
-| Crash on launch, or very laggy | Check the RAM setting (Install, step 3). Turn shaders off and lower render distance. |
+| "You are not running the same version of the modpack as the server" | Close the game and press Launch again - the updater installs the new version. Still stuck? Re-import (Install, step 2). |
+| Crash on launch, or very laggy | Check the RAM: right-click the instance -> **Edit** -> **Settings** -> **Memory** -> 10240 MB. Turn shaders off and lower render distance. |
 | Anything else | **[Open a bug report](https://github.com/KiingTeezy/All-The-Mooks/issues/new?template=bug_report.md)** or post in the Discord bug channel. |
 
 Logs live in Prism: right-click the instance -> **Folder** -> `logs\latest.log` (and `crash-reports\` if it crashed).
@@ -84,6 +89,7 @@ See **[CHANGELOG.md](CHANGELOG.md)** for everything that changed.
 
 | Version | Pack | Minecraft |
 |---|---|---|
+| [3.2.0](https://github.com/KiingTeezy/All-The-Mooks/releases/tag/v3.2.0) | Automatic updates, JourneyMap replaces Xaero's maps | 26.1.2 |
 | [3.1.0](https://github.com/KiingTeezy/All-The-Mooks/releases/tag/v3.1.0) | The Exploration update - new quest line, Better Archaeology, Starcatcher, our own branding | 26.1.2 |
 | [3.0.0](https://github.com/KiingTeezy/All-The-Mooks/releases/tag/v3.0.0) | All The Better Mooks - ATM11 + Better MC 6 exploration layer | 26.1.2 |
 | [2.0.0](https://github.com/KiingTeezy/All-The-Mooks/releases/tag/v2.0.0) | All the Mods 11 | 26.1.2 |
